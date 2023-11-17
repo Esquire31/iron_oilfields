@@ -48,3 +48,11 @@
     opacity: 0;
     animation: fade-in-down 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 1.5s forwards;
 }
+
+.hidden {
+  opacity: 0;
+}
+
+.show {
+  opacity: 1;
+}
